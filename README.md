@@ -31,23 +31,19 @@ Kullanıcı Adı - "admin"
 Bilgilendirme: "Marka, Model, Araç, Müşteri, Personel, Park, Fiyatlandırma gibi sayfalar görsellere eklenmemiştir."
 ##### Giriş Sayfası
 
-![Image of Yaktocat](https://i.imgyukle.com/2020/09/19/xwRz7o.jpg)
+![Image of Yaktocat](https://raw.githubusercontent.com/ozanercan/Otopark/master/resimler/Login.jpg)
 
 ##### Ana Sayfa
 
-![Image of Yaktocat](https://i.imgyukle.com/2020/09/19/xwRWr1.jpg)
+![Image of Yaktocat](https://raw.githubusercontent.com/ozanercan/Otopark/master/resimler/Main%20Page.jpg)
 
 ##### Park Alanı Düzenleme Safası
 
-![Image of Yaktocat](https://i.imgyukle.com/2020/09/19/xwRlEG.jpg)
+![Image of Yaktocat](https://github.com/ozanercan/Otopark/blob/master/resimler/Park%20Alan%C4%B1%20D%C3%BCzenleme.jpg?raw=true)
 
 ##### Park Alanına Araç Ekleme Penceresi
 
-![Image of Yaktocat](https://i.imgyukle.com/2020/09/19/xwR2bA.jpg)
-
-##### Aktif Park Alanı Penceresi
-
-![Image of Yaktocat](https://i.imgyukle.com/2020/09/19/xwRK5U.jpg)
+![Image of Yaktocat](https://raw.githubusercontent.com/ozanercan/Otopark/master/resimler/Park%20Alanı%20Kayıt.JPG)
 
 ### Lisans
 MIT
